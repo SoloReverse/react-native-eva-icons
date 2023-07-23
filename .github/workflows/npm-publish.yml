@@ -5,9 +5,9 @@ name: react-native-eva-icons
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   pull_request:
-    branches: [main]
+    branches: [master]
 
 jobs:
   publish-npm:
