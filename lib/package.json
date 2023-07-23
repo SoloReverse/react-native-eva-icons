@@ -1,17 +1,17 @@
 {
-  "name": "react-native-eva-icons",
-  "version": "1.4.0",
+  "name": "@solorev/react-native-eva-icons",
+  "version": "1.4.5",
   "description": "Eva Icons for React Native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akveo/react-native-eva-icons.git"
+    "url": "git+https://github.com/SoloReverse/react-native-eva-icons.git"
   },
   "keywords": [
     "react-native",
     "eva-icons",
     "svg"
   ],
-  "author": "artyorsh",
+  "author": "solorev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/akveo/react-native-eva-icons/issues"
