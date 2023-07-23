@@ -1,8 +1,16 @@
 {
   "name": "react-native-eva-icons",
   "version": "1.4.0",
-  "private": true,
   "description": "Eva Icons for React Native",
+  "author": {
+    "name": "solorev",
+    "email": "abdullah.nayssi@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoloReverse/react-native-eva-icons"
+  },
   "workspaces": {
     "packages": [
       "lib"
